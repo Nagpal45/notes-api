@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "test": "mocha tests.js",
-    "build": "npm i"
+    "build": "npm i",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
